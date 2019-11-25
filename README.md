@@ -1,7 +1,7 @@
-TypeScript React "material-ui" Demo
-===================================
+TypeScript React "material-ui" Disabled TextField Demo
+=======================================================
 
-如何使用TypeScript来写"material-ui"
+Test material-ui TextField "disabled" property. 
 
 ```
 npm install
